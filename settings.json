@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "amethyst bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Amethyst bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "AmethystSMP-izz7.aternos.me",
+    "port": 40954,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "School server fr fr",
+        "",
+        "KORBY HAS AURA"
       ]
     },
     "chat-log": true,
